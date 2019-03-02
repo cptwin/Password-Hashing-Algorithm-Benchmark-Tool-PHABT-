@@ -1,0 +1,269 @@
+https://ark.intel.com/products/97129/Intel-Core-i7-7700K-Processor-8M-Cache-up-to-4-50-GHz-
+Please enter the approximate age of your CPU in YYYY-MM-DD format:
+2017-03-31
+Modern Work Factor Multiplier: 1
+Warming up BCrypt...
+Finished Warming Up BCrypt!
+Running BCrypt Benchmark...
+Warming up SCrypt...
+Finished Warming Up SCrypt!
+Running SCrypt Benchmark...
+Warming up PBKDF2...
+Finished Warming up PBKDF2!
+Running PBKDF2 Benchmark...
+Warming up Argon2...
+Finished Warming up Argon2!
+Running Argon2 Benchmark...
++++++++++++++++++++++++++++++++++++
+Results for 2019-01-15T21:56:01.984
++++++++++++++++++++++++++++++++++++
+###################################
+##           BCRYPT             ###
+# Low Security - Work Factor 10
+# High Security - Work Factor 14
+# High Security Against Next-Gen  #
+# Work Factor - 16
+###################################
+###################################
+##           SCRYPT             ###
+# Low Security - Work Factor 8192
+# High Security - Work Factor 131072
+# High Security Against Next-Gen  #
+# Work Factor - 524288
+###################################
+###################################
+##           PBKDF2             ###
+# Low Security - Work Factor 20000
+# High Security - Work Factor 160000
+# High Security Against Next-Gen  #
+# Work Factor - 640000
+###################################
+###################################
+##           Argon2             ###
+# Low Security - Work Factor 400
+# High Security - Work Factor 3200
+# High Security Against Next-Gen  #
+# Work Factor - 12800
+###################################
+++++++++++++++CSV Results++++++++++
+algorithm,workfactor,timeinmilliseconds
+BCRYPT,4,0
+BCRYPT,5,1
+BCRYPT,6,3
+BCRYPT,7,6
+BCRYPT,8,13
+BCRYPT,9,27
+BCRYPT,10,53
+BCRYPT,11,106
+BCRYPT,12,219
+BCRYPT,13,434
+BCRYPT,14,868
+BCRYPT,15,1744
+BCRYPT,16,3502
+SCRYPT,1024,5
+SCRYPT,2048,11
+SCRYPT,4096,30
+SCRYPT,8192,48
+SCRYPT,16384,115
+SCRYPT,32768,200
+SCRYPT,65536,431
+SCRYPT,131072,847
+SCRYPT,262144,1762
+SCRYPT,524288,3463
+PBKDF2,10000,35
+PBKDF2,20000,66
+PBKDF2,40000,132
+PBKDF2,80000,278
+PBKDF2,160000,555
+PBKDF2,320000,1104
+PBKDF2,640000,2194
+ARGON2,100,19
+ARGON2,200,37
+ARGON2,400,77
+ARGON2,800,155
+ARGON2,1600,319
+ARGON2,3200,687
+ARGON2,6400,1237
+ARGON2,12800,2635
+
+https://ark.intel.com/products/75464/Intel-Xeon-Processor-E3-1275-v3-8M-Cache-3-50-GHz-
+Please enter the approximate age of your CPU in YYYY-MM-DD format:
+2013-06-30
+Modern Work Factor Multiplier: 3
+Warming up BCrypt...
+Finished Warming Up BCrypt!
+Running BCrypt Benchmark...
+Warming up SCrypt...
+Finished Warming Up SCrypt!
+Running SCrypt Benchmark...
+Warming up PBKDF2...
+Finished Warming up PBKDF2!
+Running PBKDF2 Benchmark...
+Warming up Argon2...
+Finished Warming up Argon2!
+Running Argon2 Benchmark...
++++++++++++++++++++++++++++++++++++
+Results for 2019-01-15T21:55:40.497
++++++++++++++++++++++++++++++++++++
+###################################
+##           BCRYPT             ###
+# Low Security - Work Factor 12
+# High Security - Work Factor 15
+# High Security Against Next-Gen  #
+# Work Factor - 17
+###################################
+###################################
+##           SCRYPT             ###
+# Low Security - Work Factor 32768
+# High Security - Work Factor 262144
+# High Security Against Next-Gen  #
+# Work Factor - 1048576
+###################################
+###################################
+##           PBKDF2             ###
+# Low Security - Work Factor 40000
+# High Security - Work Factor 640000
+# High Security Against Next-Gen  #
+# Work Factor - 2560000
+###################################
+###################################
+##           Argon2             ###
+# Low Security - Work Factor 800
+# High Security - Work Factor 6400
+# High Security Against Next-Gen  #
+# Work Factor - 25600
+###################################
+++++++++++++++CSV Results++++++++++
+algorithm,workfactor,timeinmilliseconds
+BCRYPT,4,1
+BCRYPT,5,2
+BCRYPT,6,4
+BCRYPT,7,8
+BCRYPT,8,17
+BCRYPT,9,35
+BCRYPT,10,71
+BCRYPT,11,143
+BCRYPT,12,289
+BCRYPT,13,576
+BCRYPT,14,1155
+BCRYPT,15,2312
+BCRYPT,16,4617
+BCRYPT,17,9237
+SCRYPT,1024,7
+SCRYPT,2048,16
+SCRYPT,4096,36
+SCRYPT,8192,61
+SCRYPT,16384,138
+SCRYPT,32768,246
+SCRYPT,65536,533
+SCRYPT,131072,1063
+SCRYPT,262144,2065
+SCRYPT,524288,4228
+SCRYPT,1048576,8438
+PBKDF2,10000,40
+PBKDF2,20000,80
+PBKDF2,40000,161
+PBKDF2,80000,322
+PBKDF2,160000,645
+PBKDF2,320000,1309
+PBKDF2,640000,2596
+PBKDF2,1280000,5174
+PBKDF2,2560000,10440
+ARGON2,100,31
+ARGON2,200,60
+ARGON2,400,120
+ARGON2,800,239
+ARGON2,1600,474
+ARGON2,3200,967
+ARGON2,6400,1974
+ARGON2,12800,3914
+ARGON2,25600,7982
+
+https://ark.intel.com/products/85213/Intel-Core-i5-5300U-Processor-3M-Cache-up-to-2-90-GHz-
+Please enter the approximate age of your CPU in YYYY-MM-DD format: 
+2015-03-31
+Modern Work Factor Multiplier: 2
+Warming up BCrypt...
+Finished Warming Up BCrypt!
+Running BCrypt Benchmark...
+Warming up SCrypt...
+Finished Warming Up SCrypt!
+Running SCrypt Benchmark...
+Warming up PBKDF2...
+Finished Warming up PBKDF2!
+Running PBKDF2 Benchmark...
+Warming up Argon2...
+Finished Warming up Argon2!
+Running Argon2 Benchmark...
++++++++++++++++++++++++++++++++++++
+Results for 2019-01-15T21:57:17.471
++++++++++++++++++++++++++++++++++++
+###################################
+##           BCRYPT             ###
+# Low Security - Work Factor 10
+# High Security - Work Factor 14
+# High Security Against Next-Gen  #
+# Work Factor - 16
+###################################
+###################################
+##           SCRYPT             ###
+# Low Security - Work Factor 8192
+# High Security - Work Factor 131072
+# High Security Against Next-Gen  #
+# Work Factor - 524288
+###################################
+###################################
+##           PBKDF2             ###
+# Low Security - Work Factor 20000
+# High Security - Work Factor 320000
+# High Security Against Next-Gen  #
+# Work Factor - 1280000
+###################################
+###################################
+##           Argon2             ###
+# Low Security - Work Factor 400
+# High Security - Work Factor 3200
+# High Security Against Next-Gen  #
+# Work Factor - 12800
+###################################
+++++++++++++++CSV Results++++++++++
+algorithm,workfactor,timeinmilliseconds
+BCRYPT,4,2
+BCRYPT,5,3
+BCRYPT,6,6
+BCRYPT,7,16
+BCRYPT,8,26
+BCRYPT,9,57
+BCRYPT,10,116
+BCRYPT,11,202
+BCRYPT,12,384
+BCRYPT,13,881
+BCRYPT,14,1646
+BCRYPT,15,3467
+BCRYPT,16,6874
+SCRYPT,1024,14
+SCRYPT,2048,24
+SCRYPT,4096,56
+SCRYPT,8192,112
+SCRYPT,16384,201
+SCRYPT,32768,470
+SCRYPT,65536,815
+SCRYPT,131072,1805
+SCRYPT,262144,3270
+SCRYPT,524288,6226
+PBKDF2,10000,56
+PBKDF2,20000,109
+PBKDF2,40000,221
+PBKDF2,80000,441
+PBKDF2,160000,882
+PBKDF2,320000,1773
+PBKDF2,640000,3605
+PBKDF2,1280000,7340
+ARGON2,100,43
+ARGON2,200,73
+ARGON2,400,145
+ARGON2,800,295
+ARGON2,1600,583
+ARGON2,3200,1258
+ARGON2,6400,2386
+ARGON2,12800,6000
